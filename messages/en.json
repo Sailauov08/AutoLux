@@ -1,0 +1,1900 @@
+{
+  "meta": {
+    "siteTitle": "AutoLux | Luxury Automotive Experience",
+    "siteDescription": "Certified luxury and performance cars in Kazakhstan. Private test drives, transparent financing and concierge delivery.",
+    "home": "Extraordinary moves people forward",
+    "inventory": "Inventory",
+    "compare": "Compare Vehicles",
+    "financing": "Financing",
+    "about": "About",
+    "contact": "Contact",
+    "testDrive": "Book a Test Drive",
+    "tradeIn": "Trade-In",
+    "notFound": "Page not found",
+    "vehicleDescription": "{year} {brand} {model} in {color}. {horsepower} hp, {transmission}, {fuel}. Certified by AutoLux.",
+    "account": "Account",
+    "signIn": "Sign in",
+    "signUp": "Create account",
+    "admin": "Dashboard",
+    "service": "Service booking",
+    "forgot": "Reset password",
+    "configurator": "Configurator",
+    "showroom": "Showroom concept",
+    "error": "Something went wrong"
+  },
+  "nav": {
+    "inventory": "Inventory",
+    "financing": "Financing",
+    "tradeIn": "Trade-In",
+    "about": "About",
+    "contact": "Contact",
+    "bookTestDrive": "Book Test Drive",
+    "bookPrivate": "Book a Private Test Drive",
+    "primary": "Primary",
+    "mobile": "Mobile",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "theme": "Theme",
+    "themeLight": "Light theme",
+    "themeDark": "Dark theme",
+    "account": "Account",
+    "signIn": "Sign in",
+    "service": "Service",
+    "configurator": "Configurator",
+    "showroom": "Showroom",
+    "search": "Search",
+    "searchLabel": "Search the collection",
+    "searchPlaceholder": "Brand, model or colour",
+    "searchSubmit": "Search",
+    "searchHint": "Press Enter to see matching vehicles",
+    "closeSearch": "Close search",
+    "consultation": "Book a consultation"
+  },
+  "footer": {
+    "description": "Certified luxury and performance automobiles, sourced with care and delivered with the attention a remarkable car deserves.",
+    "explore": "Explore",
+    "visitContact": "Visit & Contact",
+    "rights": "All rights reserved.",
+    "pricesNote": "Prices exclude taxes, registration and dealer fees.",
+    "privacy": "Privacy notice"
+  },
+  "dealership": {
+    "hoursLabel": "Opening hours",
+    "weekdays": "Monday – Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "address1": "12 Prestige Avenue",
+    "address2": "Almaty, Kazakhstan 050000",
+    "showroom": "Showroom",
+    "mapTitle": "Find us on the map",
+    "mapSubtitle": "Prestige Avenue, Almaty",
+    "openMap": "Open in maps"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "AutoLux · Midnight Edition",
+      "title": "Extraordinary moves people forward",
+      "subtitle": "Certified luxury and performance cars, presented privately and delivered with concierge care.",
+      "explore": "Explore Our Collection",
+      "bookTest": "Book a Private Test Drive",
+      "scroll": "Scroll",
+      "tagline": "Modern Luxury × Urban Sophistication",
+      "pause": "Pause slideshow",
+      "play": "Play slideshow",
+      "slide": "Show slide {n}",
+      "slides": {
+        "s1": {
+          "label": "Night drive",
+          "alt": "Dark luxury sedan parked in front of a city skyline at night"
+        },
+        "s2": {
+          "label": "Skyline",
+          "alt": "Car on a rooftop parking deck overlooking city towers at night"
+        },
+        "s3": {
+          "label": "Showroom",
+          "alt": "Monochrome car showroom lit at night"
+        }
+      }
+    },
+    "featured": {
+      "eyebrow": "Featured Vehicles",
+      "title": "The Collection",
+      "description": "Hand-picked performance and luxury vehicles, each certified and ready for a private test drive.",
+      "viewAll": "View all inventory",
+      "browseAll": "Browse All Vehicles"
+    },
+    "brands": "Brands we sell",
+    "why": {
+      "eyebrow": "Why AutoLux",
+      "title": "Confidence in every mile",
+      "description": "Buying a premium car should feel as considered as the machine itself. We built AutoLux around that standard.",
+      "certification": {
+        "title": "150-Point Certification",
+        "text": "Every vehicle is inspected by master technicians and backed by full service history."
+      },
+      "curated": {
+        "title": "Curated Selection",
+        "text": "We accept only a small number of vehicles each month, so every car meets our standard."
+      },
+      "pricing": {
+        "title": "Transparent Pricing",
+        "text": "One clear price, documented history and no hidden fees on any vehicle."
+      },
+      "delivery": {
+        "title": "Concierge Delivery",
+        "text": "Your specialist handles registration, paperwork and insured delivery to your door."
+      }
+    },
+    "financing": {
+      "eyebrow": "Financing",
+      "title": "Ownership, on your terms",
+      "description": "Competitive lenders, flexible structures and a specialist who explains every figure before you sign.",
+      "point1": "Illustrative rates from the partner lender network",
+      "point2": "Terms from 12 to 84 months",
+      "point3": "Pre-approval request with no obligation",
+      "cta": "Explore Financing",
+      "sampleLabel": "Sample monthly payment",
+      "perMonth": "/mo",
+      "price": "Price",
+      "down": "Down",
+      "aprTerm": "APR / Term",
+      "aprTermValue": "5.9% · 60 mo",
+      "downValue": "20%"
+    },
+    "tradeIn": {
+      "eyebrow": "Sell or Trade In",
+      "title": "Your car, valued with precision",
+      "description": "Trade in your current vehicle toward your next AutoLux, or sell it outright. Either way, you receive a transparent, non-binding estimate.",
+      "step1": "Share your vehicle's make, model, year and mileage.",
+      "step2": "Receive an indicative valuation instantly.",
+      "step3": "Confirm with a certified appraiser within 24 hours.",
+      "cta": "Get Your Valuation",
+      "imageAlt": "Luxury cars displayed in a modern showroom"
+    },
+    "testimonials": {
+      "eyebrow": "Client Stories",
+      "title": "Trusted by discerning drivers",
+      "rating": "Rated 5 out of 5",
+      "demo": "Demonstration testimonials for preview purposes.",
+      "t1": {
+        "quote": "The team handled everything from financing to delivery. My S-Class arrived detailed, documented and exactly as promised.",
+        "name": "Daniel R.",
+        "place": "Almaty",
+        "car": "Mercedes-Benz S 580"
+      },
+      "t2": {
+        "quote": "I booked a private test drive on a Friday and had the Porsche in my driveway by Monday. Effortless from start to finish.",
+        "name": "Amara L.",
+        "place": "Astana",
+        "car": "Porsche 911 Carrera S"
+      },
+      "t3": {
+        "quote": "Transparent pricing and a trade-in offer that beat three other dealers. AutoLux has earned our business for life.",
+        "name": "Marcus T.",
+        "place": "Almaty",
+        "car": "Range Rover Autobiography"
+      }
+    },
+    "stats": {
+      "clients": "Clients delivered",
+      "years": "Years of excellence",
+      "satisfaction": "Client satisfaction",
+      "inspection": "Point inspection",
+      "demo": "Demonstration figures for preview purposes."
+    },
+    "showcase": {
+      "eyebrow": "Gallery",
+      "title": "Built to be seen",
+      "performance": {
+        "title": "Performance Line",
+        "text": "Sculpted for speed"
+      },
+      "openAir": {
+        "title": "Open Air",
+        "text": "Grand touring, top down"
+      },
+      "electric": {
+        "title": "Electric",
+        "text": "Silent, instant, refined"
+      }
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Questions, answered",
+      "description": "Everything you need to know before your first visit.",
+      "q1": {
+        "question": "Are your vehicles certified?",
+        "answer": "Every car passes a 150-point inspection by our master technicians, with full service history and a 12-month powertrain warranty."
+      },
+      "q2": {
+        "question": "Can I book a test drive without an appointment?",
+        "answer": "Walk-ins are welcome, but private test drives are best booked in advance so a specialist can prepare the vehicle for you."
+      },
+      "q3": {
+        "question": "Do you accept trade-ins?",
+        "answer": "Yes. Submit your vehicle details online and receive a no-obligation estimate. A certified appraiser confirms the final offer."
+      },
+      "q4": {
+        "question": "What financing options are available?",
+        "answer": "Financing is arranged through partner lenders for terms from 12 to 84 months. Estimates are illustrative; approval depends on the lender."
+      },
+      "q5": {
+        "question": "Do you deliver outside Almaty?",
+        "answer": "Yes. Concierge delivery is available across Kazakhstan with insured door-to-door transport."
+      }
+    },
+    "finalCta": {
+      "eyebrow": "Your next drive",
+      "title": "Experience it in person.",
+      "description": "Reserve a private test drive at our Almaty showroom. Our specialists will prepare everything for you.",
+      "bookTest": "Book a Private Test Drive",
+      "contact": "Contact a Specialist",
+      "imageAlt": ""
+    },
+    "intro": "Every car is selected, inspected and presented with the precision a serious buyer expects.",
+    "categories": {
+      "eyebrow": "Browse by body",
+      "title": "Find your shape",
+      "sedan": "Sedans",
+      "coupe": "Coupés",
+      "suv": "SUVs",
+      "convertible": "Convertibles",
+      "gt": "Grand tourers"
+    },
+    "bespoke": {
+      "eyebrow": "Bespoke experience",
+      "title": "A private standard, from first call to handover"
+    },
+    "configTeaser": {
+      "eyebrow": "Configurator",
+      "title": "Compose your finish",
+      "text": "Explore exterior colours, wheels, interior leathers and trims on any car in our collection, with the price updating as you choose.",
+      "cta": "Open the configurator",
+      "note": "Option prices are illustrative demo values."
+    },
+    "showroomTeaser": {
+      "eyebrow": "Showroom experience",
+      "title": "Glass, marble and champagne metal",
+      "text": "Our showroom concept pairs a marble reception, a quiet lounge and a private VIP suite with a digital kiosk for browsing the collection.",
+      "cta": "Explore the concept",
+      "concept": "Conceptual visualisation"
+    },
+    "byType": {
+      "count": "{count, plural, one {# car} other {# cars}} in stock",
+      "viewAll": "All {type}"
+    }
+  },
+  "inventory": {
+    "eyebrow": "Inventory",
+    "title": "Explore Our Collection",
+    "description": "Certified luxury and performance cars, each inspected, documented and ready for a private test drive.",
+    "search": "Search inventory",
+    "searchPlaceholder": "Search brand, model or color",
+    "sortBy": "Sort by",
+    "sort": {
+      "featured": "Featured",
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low",
+      "yearDesc": "Newest First",
+      "mileageAsc": "Lowest Mileage"
+    },
+    "showing": "Showing {shown} of {total} vehicles",
+    "filters": "Filters",
+    "filtersCount": "Filters ({count})",
+    "filterDialog": "Filter vehicles",
+    "close": "Close",
+    "closeFilters": "Close filters",
+    "showResults": "Show {count} vehicles",
+    "showMore": "Show more vehicles",
+    "emptyTitle": "No vehicles match these filters",
+    "emptyText": "Try widening your price range or removing a filter. Our specialists can also source a car for you.",
+    "clearFilters": "Clear all filters",
+    "demoNotice": "Demonstration inventory. Vehicles and availability are sample data.",
+    "collectionEyebrow": "Our collection",
+    "tabs": {
+      "all": "All",
+      "Sedan": "Sedan",
+      "SUV": "SUV",
+      "Coupe": "Coupe",
+      "electric": "Electric"
+    },
+    "tabsLabel": "Body type"
+  },
+  "filters": {
+    "brand": "Brand",
+    "allBrands": "All brands",
+    "model": "Model",
+    "allModels": "All models",
+    "price": "Price range",
+    "anyPrice": "Any price",
+    "priceRange0": "Under 50 M ₸",
+    "priceRange1": "50 M – 75 M ₸",
+    "priceRange2": "75 M – 100 M ₸",
+    "priceRange3": "100 M ₸ and above",
+    "year": "Model year",
+    "anyYear": "Any year",
+    "yearAndNewer": "{year} and newer",
+    "mileage": "Mileage",
+    "anyMileage": "Any mileage",
+    "mileageLimit0": "Under 5,000 km",
+    "mileageLimit1": "Under 10,000 km",
+    "mileageLimit2": "Under 20,000 km",
+    "fuel": "Fuel type",
+    "anyFuel": "Any fuel",
+    "transmission": "Transmission",
+    "anyTransmission": "Any transmission",
+    "bodyType": "Body type",
+    "anyBodyType": "Any body type",
+    "reset": "Reset filters"
+  },
+  "enums": {
+    "fuel": {
+      "Gasoline": "Gasoline",
+      "Electric": "Electric",
+      "Hybrid": "Hybrid",
+      "Diesel": "Diesel"
+    },
+    "transmission": {
+      "Automatic": "Automatic",
+      "Manual": "Manual"
+    },
+    "bodyType": {
+      "Sedan": "Sedan",
+      "Coupe": "Coupe",
+      "SUV": "SUV",
+      "Convertible": "Convertible",
+      "GT": "GT"
+    },
+    "drivetrain": {
+      "AWD": "AWD",
+      "RWD": "RWD",
+      "4WD": "4WD",
+      "FWD": "FWD"
+    }
+  },
+  "badges": {
+    "Certified": "Certified",
+    "Low Mileage": "Low Mileage",
+    "New Arrival": "New Arrival",
+    "Rare": "Rare"
+  },
+  "card": {
+    "details": "Details",
+    "save": "Save car",
+    "saved": "Saved",
+    "remove": "Remove from saved cars",
+    "add": "Add to comparison",
+    "unadd": "Remove from comparison",
+    "compare": "Compare",
+    "comparing": "Comparing",
+    "limit": "You can compare up to {max} cars",
+    "photoRepresentative": "Model photo · not this exact car",
+    "photoPending": "Photos coming soon"
+  },
+  "car": {
+    "breadcrumb": "Breadcrumb",
+    "overview": "Overview",
+    "overviewTitle": "The car",
+    "specifications": "Specifications",
+    "specificationsTitle": "Technical details",
+    "highlights": "Highlights",
+    "highlightsTitle": "Key features",
+    "estimated": "Estimated payment",
+    "estimatedTerms": "20% down · 60 months · 5.9% APR",
+    "perMonth": "/mo",
+    "bookTest": "Book Test Drive",
+    "contactDealer": "Contact Dealer",
+    "similar": "Similar vehicles",
+    "similarTitle": "You may also like",
+    "power": "Power",
+    "drive": "Drive",
+    "fuel": "Fuel",
+    "gearbox": "Gearbox",
+    "disclaimer": "Price shown is the advertised vehicle price. Taxes, registration and fees are extra.",
+    "specs": {
+      "year": "Year",
+      "mileage": "Mileage",
+      "fuel": "Fuel",
+      "transmission": "Transmission",
+      "engine": "Engine",
+      "horsepower": "Horsepower",
+      "drivetrain": "Drivetrain",
+      "bodyType": "Body type",
+      "color": "Exterior color"
+    },
+    "photo": "Show photo {n}",
+    "photoOf": "{alt}, photo {n} of {total}",
+    "notFoundTitle": "Vehicle not found",
+    "configure": "Configure",
+    "compareAdd": "Compare",
+    "metrics": "Key figures",
+    "hp": "hp",
+    "km": "km"
+  },
+  "compare": {
+    "eyebrow": "Compare",
+    "title": "Side by side",
+    "description": "Compare up to three vehicles across performance, specification and value.",
+    "emptyTitle": "Your comparison is empty",
+    "emptyText": "Add up to three vehicles from the inventory to compare them side by side.",
+    "browse": "Browse Inventory",
+    "caption": "Side by side comparison of selected vehicles",
+    "specification": "Specification",
+    "viewCar": "View car",
+    "remove": "Remove",
+    "clear": "Clear comparison",
+    "rows": {
+      "price": "Price",
+      "year": "Year",
+      "mileage": "Mileage",
+      "engine": "Engine",
+      "horsepower": "Horsepower",
+      "drivetrain": "Drivetrain",
+      "transmission": "Transmission",
+      "fuel": "Fuel",
+      "bodyType": "Body type",
+      "color": "Exterior color"
+    },
+    "bar": {
+      "compare": "Compare",
+      "of": "/ {max}",
+      "clear": "Clear comparison",
+      "view": "View Compare"
+    }
+  },
+  "financing": {
+    "eyebrow": "Financing",
+    "title": "Ownership, considered.",
+    "description": "Flexible loans and lease structures from partner lenders who understand premium vehicles. Clear figures, no surprises.",
+    "howEyebrow": "How it works",
+    "howTitle": "Three steps to the driver's seat",
+    "step1": {
+      "title": "Apply online",
+      "text": "A short application with no obligation. Lender requirements apply."
+    },
+    "step2": {
+      "title": "Get a decision",
+      "text": "Partner lenders review your application. Approval is never guaranteed."
+    },
+    "step3": {
+      "title": "Drive home",
+      "text": "We handle the paperwork, registration and insured delivery."
+    },
+    "calcEyebrow": "Calculator",
+    "calcTitle": "Estimate your payment",
+    "calcDescription": "Adjust the figures to see your monthly payment update instantly.",
+    "benefit1": "Illustrative rates from the partner lender network",
+    "benefit2": "Terms from 12 to 84 months",
+    "benefit3": "Lease and purchase structures",
+    "benefit4": "Trade-in equity applied to your deposit",
+    "benefit5": "No early repayment penalties on partner loans",
+    "benefit6": "A dedicated financing specialist",
+    "ctaTitle": "Ready to apply?",
+    "ctaText": "Tell us about the vehicle you have in mind. A financing specialist will reply within one business day.",
+    "ctaButton": "Start Your Application"
+  },
+  "calculator": {
+    "price": "Vehicle price",
+    "down": "Down payment",
+    "apr": "Interest rate (APR)",
+    "term": "Loan term",
+    "months": "{count} months",
+    "estimated": "Estimated monthly payment",
+    "perMonth": "/mo",
+    "financed": "Amount financed",
+    "interest": "Total estimated interest",
+    "total": "Total estimated repayment",
+    "disclaimer": "Illustrative estimate only. It is not a loan offer or approval. Final terms depend on credit assessment, lender and taxes.",
+    "start": "Start Financing Application"
+  },
+  "about": {
+    "heroEyebrow": "About AutoLux",
+    "heroTitle": "Built on trust, driven by passion.",
+    "heroDescription": "Since 2011 we have helped discerning drivers find remarkable cars, with honest advice and a standard that never bends.",
+    "storyEyebrow": "Our story",
+    "storyTitle": "A showroom built around the driver.",
+    "storyP1": "AutoLux began as a single showroom with a simple belief: a premium car should be chosen with the same care that went into building it. Every vehicle we sell is personally selected, inspected and documented.",
+    "storyP2": "Today our specialists guide clients through financing, trade-ins and concierge delivery, so the experience feels as considered as the car itself.",
+    "storyImageAlt": "Black luxury sedan parked beside a brick building",
+    "valuesEyebrow": "Mission & values",
+    "valuesTitle": "What we stand for",
+    "precision": {
+      "title": "Precision",
+      "text": "Every detail is inspected, documented and presented with care."
+    },
+    "transparency": {
+      "title": "Transparency",
+      "text": "Clear pricing, honest history and no hidden fees, ever."
+    },
+    "service": {
+      "title": "Service",
+      "text": "A dedicated specialist guides you from first call to first mile."
+    },
+    "milestonesEyebrow": "Milestones",
+    "milestonesTitle": "Fifteen years of progress",
+    "m2011": {
+      "title": "The First Showroom",
+      "text": "AutoLux opens in Almaty with a curated list of 12 vehicles."
+    },
+    "m2016": {
+      "title": "Certified Program",
+      "text": "We launch our 150-point certification and inspection standard."
+    },
+    "m2020": {
+      "title": "Concierge Delivery",
+      "text": "Insured door-to-door delivery reaches clients across the country."
+    },
+    "m2025": {
+      "title": "Digital Private Client",
+      "text": "Online booking, financing and trade-in tools join the in-person experience."
+    },
+    "teamEyebrow": "Our specialists",
+    "teamTitle": "The people behind every car",
+    "team1": {
+      "name": "Elena Vasquez",
+      "role": "Founder & Managing Director"
+    },
+    "team2": {
+      "name": "Julian Ortiz",
+      "role": "Head of Sales"
+    },
+    "team3": {
+      "name": "Sophie Lindqvist",
+      "role": "Certification Lead"
+    },
+    "team4": {
+      "name": "Ryan Okafor",
+      "role": "Financing Specialist"
+    },
+    "cta": "Meet Us in the Showroom"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk cars.",
+    "description": "Questions about a vehicle, financing or delivery? Our concierge team replies personally within one business day.",
+    "formTitle": "Send an enquiry",
+    "formDescription": "Share a few details and we will take it from there.",
+    "mapCaption": "Crescent Drive"
+  },
+  "testDrive": {
+    "eyebrow": "Test Drive",
+    "title": "Book a Private Test Drive",
+    "description": "Choose your vehicle and a time that suits you. We will prepare the car and confirm your appointment.",
+    "perk1": {
+      "title": "Prepared for you",
+      "text": "Your chosen vehicle is detailed, fuelled or charged and waiting at arrival."
+    },
+    "perk2": {
+      "title": "Flexible timing",
+      "text": "Select a slot that suits you, including early evenings and weekends."
+    },
+    "perk3": {
+      "title": "Chauffeur option",
+      "text": "Prefer to be driven? Request a chauffeur-led experience in your notes."
+    },
+    "disabled": "Online test-drive requests are paused. Please call us to book."
+  },
+  "tradeInPage": {
+    "eyebrow": "Trade-In",
+    "title": "What is your car worth?",
+    "description": "Tell us about your vehicle and receive an indicative valuation instantly. Trade it in or sell it, on your terms.",
+    "benefit1": {
+      "title": "Transparent estimate",
+      "text": "An indicative value based on year, mileage and condition. Not a market appraisal."
+    },
+    "benefit2": {
+      "title": "Fast response",
+      "text": "An indicative value now and a confirmed offer from a certified appraiser within 24 hours."
+    },
+    "benefit3": {
+      "title": "Simple handover",
+      "text": "We manage the paperwork, and collection can be arranged at your home."
+    }
+  },
+  "forms": {
+    "submit": {
+      "testDrive": "Request Private Test Drive",
+      "contact": "Send Message",
+      "tradeIn": "Get My Trade-In Offer"
+    },
+    "sending": "Sending…",
+    "requesting": "Requesting…",
+    "calculating": "Calculating…",
+    "errors": {
+      "required": "This field is required.",
+      "name": "Enter your full name.",
+      "email": "Enter a valid email address.",
+      "phone": "Enter a valid phone number.",
+      "vehicle": "Select a vehicle.",
+      "date": "Choose a preferred date.",
+      "dateFuture": "Choose today or a future date.",
+      "time": "Choose a time slot.",
+      "topic": "Choose a topic.",
+      "message": "Tell us a little more (at least 10 characters).",
+      "brand": "Enter the vehicle brand.",
+      "model": "Enter the model.",
+      "year": "Select the model year.",
+      "mileage": "Enter the current mileage.",
+      "condition": "Select the condition.",
+      "notes": "Keep notes under 1,000 characters.",
+      "slug": "Use 3–80 lowercase letters, numbers and hyphens.",
+      "slugTaken": "This ID is already in use.",
+      "price": "Enter a valid price.",
+      "down": "The down payment must be lower than the price.",
+      "term": "Choose a loan term.",
+      "vehicleDescription": "Describe your vehicle (make, model, year).",
+      "serviceType": "Choose a service.",
+      "password": "Enter your password.",
+      "passwordLength": "Use 8 to 72 characters.",
+      "horsepower": "Enter a valid horsepower value.",
+      "consent": "Please confirm your consent.",
+      "contactRequired": "Enter an e-mail or a phone number.",
+      "useSale": "Record a sale to mark the lead as won.",
+      "reason": "Give a reason (3–500 characters).",
+      "vin": "A VIN has 17 characters (no I, O or Q).",
+      "vinTaken": "This VIN is already used.",
+      "emailTaken": "This e-mail belongs to another customer.",
+      "url": "Enter a full https:// link.",
+      "currency": "Use a three-letter currency code.",
+      "timezone": "Enter a valid time zone, e.g. Asia/Almaty.",
+      "number": "Enter a number within the allowed range.",
+      "tooLong": "This text is too long."
+    },
+    "testDriveFields": {
+      "vehicle": "Vehicle",
+      "selectVehicle": "Select a vehicle",
+      "date": "Preferred date",
+      "time": "Time slot",
+      "selectTime": "Select a time",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "notes": "Notes (optional)",
+      "notesPlaceholder": "Driving preferences, questions or a chauffeur request"
+    },
+    "testDriveSuccess": {
+      "title": "Your test drive is requested",
+      "text": "A product specialist will confirm your slot by phone or email within two business hours. This is a request, not a confirmed booking.",
+      "reference": "Reference",
+      "vehicle": "Vehicle",
+      "date": "Date",
+      "time": "Time",
+      "browse": "Browse Inventory",
+      "again": "Book another"
+    },
+    "contactFields": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone (optional)",
+      "topic": "Topic",
+      "selectTopic": "Select a topic",
+      "message": "Message",
+      "topics": {
+        "general": "General enquiry",
+        "financing": "Financing",
+        "tradeIn": "Trade-in valuation",
+        "availability": "Vehicle availability",
+        "delivery": "Concierge delivery"
+      }
+    },
+    "contactSuccess": {
+      "title": "Thank you, {name}.",
+      "text": "Your message has reached our concierge team. Expect a personal reply within one business day.",
+      "again": "Send another message"
+    },
+    "tradeInFields": {
+      "brand": "Brand",
+      "model": "Model",
+      "year": "Model year",
+      "selectYear": "Select year",
+      "mileage": "Mileage (km)",
+      "condition": "Condition",
+      "selectCondition": "Select condition",
+      "conditions": {
+        "excellent": "Excellent — like new",
+        "good": "Good — minor wear",
+        "fair": "Fair — visible wear"
+      },
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone"
+    },
+    "tradeInSuccess": {
+      "eyebrow": "Indicative trade-in value",
+      "text": "This is a non-binding estimate, not a market appraisal. A certified appraiser will confirm your official offer within 24 hours. The estimate is valid for 7 days.",
+      "again": "Submit another vehicle"
+    },
+    "consent": "I agree to the processing of my personal data to handle this request.",
+    "privacyLink": "Privacy notice"
+  },
+  "notFound": {
+    "eyebrow": "Error 404",
+    "title": "This road leads nowhere.",
+    "text": "The page you are looking for has moved or never existed.",
+    "home": "Back to Home"
+  },
+  "units": {
+    "km": "km"
+  },
+  "cars": {
+    "mercedes-s-580": {
+      "description": "Flagship executive sedan with rear-axle steering, Burmester surround sound and a hand-stitched Nappa cabin built for long, quiet journeys.",
+      "features": [
+        "Burmester 4D Surround",
+        "Rear-axle steering",
+        "Executive rear seating",
+        "Night Package",
+        "Head-up display"
+      ]
+    },
+    "mercedes-amg-gt-63-s": {
+      "description": "A four-door grand tourer with a 630 hp V8, carbon-ceramic brakes and AMG performance seats tuned for both boulevard and track.",
+      "features": [
+        "Carbon-ceramic brakes",
+        "AMG Performance seats",
+        "Active rear spoiler",
+        "Burmester High-End audio",
+        "Dynamic Plus Package"
+      ]
+    },
+    "mercedes-g-63-amg": {
+      "description": "Iconic off-road presence with three locking differentials and a hand-finished AMG interior that is equally at home in the city.",
+      "features": [
+        "Three locking differentials",
+        "Off-Road Package",
+        "Designo leather",
+        "360° camera",
+        "Driver Assistance Pro"
+      ]
+    },
+    "porsche-911-carrera-s": {
+      "description": "The sports car benchmark. Sharp, precise handling, the Sport Chrono Package and a driver-first cockpit in its purest form.",
+      "features": [
+        "Sport Chrono Package",
+        "Porsche Active Suspension",
+        "Sport exhaust system",
+        "Adaptive sport seats",
+        "Surround-view camera"
+      ]
+    },
+    "porsche-911-carrera-4-cabriolet": {
+      "description": "Open-air grand touring with a powered soft top, all-wheel drive and a full leather interior for every season.",
+      "features": [
+        "Power soft top",
+        "Sport Design package",
+        "Heated and ventilated seats",
+        "BOSE surround sound",
+        "Front axle lift"
+      ]
+    },
+    "porsche-718-cayman-gt4": {
+      "description": "A mid-engine track weapon with a six-speed manual and a naturally aspirated flat-six that rewards every precise input.",
+      "features": [
+        "Six-speed manual",
+        "Sport Chrono Package",
+        "Lightweight bucket seats",
+        "PASM sport suspension",
+        "Rear-axle steering"
+      ]
+    },
+    "porsche-taycan-turbo-s": {
+      "description": "A 750 hp all-electric performance saloon with 800-volt fast charging and launch control that takes your breath away.",
+      "features": [
+        "Launch Control",
+        "Air suspension",
+        "Panoramic roof",
+        "Sport Chrono Package",
+        "Rear-axle steering"
+      ]
+    },
+    "bmw-m5-competition": {
+      "description": "A super sedan with M xDrive, carbon bucket seats and track-ready brakes, wrapped in understated graphite.",
+      "features": [
+        "M xDrive",
+        "M Carbon bucket seats",
+        "Carbon-ceramic brakes",
+        "Harman Kardon audio",
+        "Head-up display"
+      ]
+    },
+    "bmw-i7-xdrive60": {
+      "description": "An electric flagship with a theatre-style rear cabin, panoramic Sky Lounge roof and Bowers & Wilkins sound.",
+      "features": [
+        "Theatre screen",
+        "Sky Lounge roof",
+        "Bowers & Wilkins audio",
+        "Executive Lounge seating",
+        "Adaptive air suspension"
+      ]
+    },
+    "audi-rs-e-tron-gt": {
+      "description": "A four-door electric GT with quattro all-wheel drive, carbon-ceramic brakes and a sculpted, low-slung stance.",
+      "features": [
+        "Matrix LED headlights",
+        "Bang & Olufsen 3D sound",
+        "Carbon-ceramic brakes",
+        "Virtual cockpit plus",
+        "Quattro AWD"
+      ]
+    },
+    "range-rover-autobiography": {
+      "description": "Full-size luxury with executive rear seating, an air-suspended ride and the quiet authority of a V8.",
+      "features": [
+        "Executive class rear seats",
+        "Meridian sound system",
+        "Terrain Response 2",
+        "Air suspension",
+        "Panoramic roof"
+      ]
+    },
+    "lexus-ls-500h": {
+      "description": "A refined flagship hybrid with Takumi-crafted wood trim and a silent, effortless character over any distance.",
+      "features": [
+        "Mark Levinson audio",
+        "Takumi wood trim",
+        "Rear seat relaxation",
+        "Adaptive variable suspension",
+        "Heads-up display"
+      ]
+    },
+    "tesla-model-s-plaid": {
+      "description": "A tri-motor electric sedan with 1,020 hp, a 17-inch cinematic display and acceleration that feels almost unreal.",
+      "features": [
+        "Yoke steering",
+        "17-inch display",
+        "Plaid performance",
+        "Premium interior",
+        "Autopilot"
+      ]
+    },
+    "ferrari-roma": {
+      "description": "Elegant grand touring with a sculpted front fascia, V8 response and a cabin finished in fine Italian leather.",
+      "features": [
+        "Carbon fibre pack",
+        "Ferrari Dynamic Enhancement",
+        "Sport seats",
+        "Front lift system",
+        "Sport exhaust"
+      ]
+    },
+    "lamborghini-huracan-evo": {
+      "description": "A naturally aspirated V10 supercar with integrated LDVI dynamics and a cockpit designed around the driver.",
+      "features": [
+        "LDVI integrated dynamics",
+        "Carbon-ceramic brakes",
+        "Sport bucket seats",
+        "Rear camera",
+        "Front lift system"
+      ]
+    }
+  },
+  "common": {
+    "save": "Save",
+    "saving": "Saving…",
+    "saved": "Saved",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "back": "Back",
+    "actions": "Actions",
+    "status": "Status",
+    "created": "Created",
+    "search": "Search",
+    "all": "All",
+    "apply": "Apply",
+    "from": "From",
+    "to": "To",
+    "confirmDelete": "Delete permanently? This cannot be undone.",
+    "reference": "Reference",
+    "view": "View",
+    "signOut": "Sign out",
+    "demoMode": "Demo mode",
+    "demoModeText": "Supabase is not connected. The site shows sample inventory and online forms cannot be submitted.",
+    "sending": "Sending…"
+  },
+  "errors": {
+    "unconfigured": "Online submissions are not connected yet. Please call or e-mail us.",
+    "invalid": "Please check the highlighted fields.",
+    "rate_limited": "Too many attempts. Please wait a few minutes and try again.",
+    "slot_taken": "This time slot is already booked. Please choose another.",
+    "duplicate": "You already have an open request for this vehicle.",
+    "vehicle_unavailable": "This vehicle is no longer available.",
+    "auth_required": "Please sign in to continue.",
+    "forbidden": "You do not have permission for this action.",
+    "invalid_date": "Choose an available date and time.",
+    "service_disabled": "Service bookings are currently unavailable.",
+    "not_found": "The record could not be found.",
+    "in_use": "This vehicle is linked to bookings or sales and cannot be deleted. Mark it as draft instead.",
+    "generic": "Something went wrong. Please try again.",
+    "invalid_credentials": "Incorrect email or password.",
+    "email_not_confirmed": "Please confirm your email address first.",
+    "same_password": "Choose a password different from the current one.",
+    "slug_taken": "This ID is already in use.",
+    "already_sold": "This vehicle already has a recorded sale.",
+    "image_type": "Upload a JPEG, PNG, WebP or AVIF image.",
+    "image_size": "The file is too large.",
+    "upload_failed": "The upload failed. Please try again.",
+    "link": "This link is invalid or has expired. Please request a new one.",
+    "conflict": "Someone else changed this record. Reload the page and try again.",
+    "invalid_transition": "This change is not allowed in the current status.",
+    "archive_instead": "Only drafts can be deleted. Archive this vehicle instead.",
+    "media_limit": "A vehicle can have up to 40 photos.",
+    "reason_required": "Please give a reason (at least 3 characters).",
+    "self_approval": "You cannot approve your own request.",
+    "use_sale": "Record a sale to mark a lead as won.",
+    "invalid_assignee": "This employee cannot be assigned here.",
+    "consent_required": "Please agree to the processing of your personal data.",
+    "last_owner": "The dealership must keep at least one active owner.",
+    "already_member": "This person already belongs to the team.",
+    "invitation_invalid": "This invitation is invalid, expired or already used.",
+    "invitation_email": "Sign in with the e-mail address the invitation was sent to.",
+    "suspended": "Your access to this dealership is suspended.",
+    "vehicle_reserved": "This vehicle is reserved for another customer.",
+    "duplicate_request": "You already have an open request for this.",
+    "vin_taken": "This VIN is already used by another vehicle.",
+    "email_taken": "Another customer already uses this e-mail."
+  },
+  "statuses": {
+    "request": {
+      "new": "New",
+      "in_progress": "In progress",
+      "confirmed": "Confirmed",
+      "completed": "Completed",
+      "cancelled": "Cancelled",
+      "rejected": "Declined"
+    },
+    "vehicle": {
+      "draft": "Draft",
+      "available": "Available",
+      "reserved": "Reserved",
+      "sold": "Sold",
+      "archived": "Archived"
+    },
+    "stage": {
+      "new": "New",
+      "contacted": "Contacted",
+      "qualified": "Qualified",
+      "negotiation": "Negotiation",
+      "won": "Won",
+      "lost": "Lost"
+    }
+  },
+  "roles": {
+    "owner": "Owner",
+    "general_manager": "General manager",
+    "sales_manager": "Sales manager",
+    "sales_rep": "Sales representative",
+    "inventory_manager": "Inventory manager",
+    "finance_manager": "Finance manager",
+    "receptionist": "Receptionist",
+    "customer": "Customer"
+  },
+  "auth": {
+    "eyebrow": "Private client",
+    "signInTitle": "Welcome back.",
+    "signInText": "Sign in to manage saved vehicles, bookings and requests.",
+    "signUpTitle": "Create your account.",
+    "signUpText": "Save vehicles, reserve cars and follow every request in one place.",
+    "forgotTitle": "Reset your password.",
+    "forgotText": "Enter your email and we will send you a secure link.",
+    "updateTitle": "Choose a new password.",
+    "updateText": "Use at least 8 characters.",
+    "email": "Email",
+    "password": "Password",
+    "newPassword": "New password",
+    "fullName": "Full name",
+    "signIn": "Sign in",
+    "signUp": "Create account",
+    "sendLink": "Send reset link",
+    "updatePassword": "Update password",
+    "noAccount": "New to AutoLux?",
+    "haveAccount": "Already have an account?",
+    "forgot": "Forgot password?",
+    "checkEmailTitle": "Check your inbox.",
+    "checkEmailText": "We sent a confirmation link to your email. Open it to activate your account.",
+    "resetSent": "If an account exists for this email, a reset link is on its way.",
+    "passwordUpdated": "Your password has been updated.",
+    "goToAccount": "Go to account"
+  },
+  "account": {
+    "eyebrow": "Account",
+    "title": "Your AutoLux",
+    "description": "Profile, saved vehicles and the status of every request.",
+    "profile": "Profile",
+    "email": "Email",
+    "fullName": "Full name",
+    "phone": "Phone",
+    "locale": "Preferred language",
+    "saveProfile": "Save profile",
+    "profileSaved": "Profile saved.",
+    "savedTitle": "Saved vehicles",
+    "savedEmpty": "You have not saved any vehicles yet.",
+    "requestsTitle": "Requests",
+    "requestsEmpty": "No requests yet. Book a test drive or send an enquiry to see it here.",
+    "kinds": {
+      "test_drive": "Test drive",
+      "reservation": "Reservation",
+      "financing": "Financing",
+      "trade_in": "Trade-in",
+      "service": "Service",
+      "inquiry": "Enquiry"
+    },
+    "cancel": "Cancel request",
+    "browse": "Browse inventory",
+    "admin": "Open dashboard",
+    "languages": {
+      "kk": "Қазақша",
+      "ru": "Русский",
+      "en": "English"
+    },
+    "appointment": "Appointment: {time}",
+    "heldUntil": "Vehicle held until {time}",
+    "awaitingConfirmation": "Requested — we will confirm by phone or e-mail."
+  },
+  "reservation": {
+    "eyebrow": "Reservation",
+    "title": "Reserve this vehicle",
+    "text": "A reservation request holds your place in line. A specialist will contact you to confirm; no payment is taken online.",
+    "phone": "Phone (optional)",
+    "message": "Message (optional)",
+    "submit": "Request reservation",
+    "signInPrompt": "Sign in to request a reservation.",
+    "signIn": "Sign in",
+    "successTitle": "Reservation requested",
+    "successText": "Your request is with our team. You can follow its status in your account.",
+    "unavailable": "This vehicle is not available for reservation."
+  },
+  "financingForm": {
+    "eyebrow": "Application",
+    "title": "Request financing",
+    "text": "Send your preferred structure to a specialist. This is an enquiry, not a credit application or approval.",
+    "vehicle": "Vehicle (optional)",
+    "anyVehicle": "Not decided yet",
+    "price": "Vehicle price (₸)",
+    "down": "Down payment (₸)",
+    "term": "Loan term",
+    "submit": "Send financing request",
+    "successTitle": "Request received",
+    "successText": "A financing specialist will contact you within one business day."
+  },
+  "service": {
+    "eyebrow": "Service",
+    "title": "Book a service appointment",
+    "description": "Maintenance, inspection and detailing by certified technicians. Choose a slot and we will confirm it.",
+    "formTitle": "Appointment details",
+    "vehicle": "Your vehicle",
+    "vehiclePlaceholder": "e.g. Porsche Cayenne 2021",
+    "type": "Service",
+    "types": {
+      "maintenance": "Scheduled maintenance",
+      "inspection": "Pre-purchase inspection",
+      "detailing": "Detailing",
+      "tyres": "Tyres and wheels",
+      "repair": "Repair diagnostics"
+    },
+    "date": "Preferred date",
+    "time": "Time slot",
+    "notes": "Notes (optional)",
+    "submit": "Request appointment",
+    "successTitle": "Appointment requested",
+    "successText": "We will confirm the slot by phone or email. This is a request until confirmed.",
+    "disabled": "Online service booking is currently unavailable."
+  },
+  "success": {
+    "reference": "Reference"
+  },
+  "admin": {
+    "eyebrow": "Dealership workspace",
+    "setupTitle": "Connect Supabase to enable the dashboard",
+    "setupText": "The dashboard works only with real data. Add NEXT_PUBLIC_SUPABASE_URL and NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY to .env.local, apply supabase/migrations, run supabase/seed.sql and restart the app.",
+    "nav": {
+      "label": "Dashboard navigation",
+      "menu": "Menu",
+      "workspace": "Workspace",
+      "overview": "Overview",
+      "tasks": "Tasks",
+      "notifications": "Notifications",
+      "stock": "Stock",
+      "inventory": "Inventory",
+      "prices": "Price approvals",
+      "sales": "Sales",
+      "leads": "Leads",
+      "customers": "Customers",
+      "salesRecords": "Sales records",
+      "bookings": "Bookings",
+      "calendar": "Calendar",
+      "test_drive": "Test drives",
+      "reservation": "Reservations",
+      "service": "Service",
+      "requests": "Requests",
+      "inquiry": "Enquiries",
+      "financing": "Financing",
+      "trade_in": "Trade-ins",
+      "management": "Management",
+      "analytics": "Analytics",
+      "team": "Team",
+      "settings": "Settings",
+      "audit": "Audit log",
+      "viewSite": "View site"
+    },
+    "common": {
+      "all": "All",
+      "apply": "Apply",
+      "assignee": "Responsible",
+      "unassigned": "Unassigned",
+      "created": "Created",
+      "customer": "Customer",
+      "vehicle": "Vehicle",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "notes": "Notes",
+      "reason": "Reason",
+      "status": "Status",
+      "search": "Search",
+      "from": "From",
+      "to": "To",
+      "save": "Save",
+      "saved": "Saved",
+      "remove": "Remove",
+      "confirm": "Confirm",
+      "cancel": "Cancel",
+      "previous": "Previous page",
+      "next": "Next page",
+      "pagination": "Pagination",
+      "pageOf": "Page {page} of {pages}",
+      "total": "{count} total"
+    },
+    "overview": {
+      "title": "Overview",
+      "inventory": "Stock",
+      "available": "Available",
+      "reserved": "Reserved",
+      "sold": "Sold",
+      "draft": "Drafts",
+      "unpublished": "Available, not published",
+      "pendingPrices": "Price changes to approve",
+      "today": "Needs attention",
+      "newRequests": "New: {kind}",
+      "upcomingTestDrives": "Test drives in the next 7 days",
+      "overdueFollowUps": "Overdue follow-ups",
+      "unassignedLeads": "Unassigned leads",
+      "myTasks": "My open tasks",
+      "overdueTasks": "{count} overdue",
+      "salesThisMonth": "Sales this month",
+      "pendingSales": "{count} pending",
+      "pipeline": "Open pipeline",
+      "stages": {
+        "new": "New",
+        "contacted": "Contacted",
+        "qualified": "Qualified",
+        "negotiation": "Negotiation"
+      },
+      "myTasksTitle": "My tasks",
+      "upcoming": "Upcoming appointments",
+      "noUpcoming": "No appointments in the next 7 days.",
+      "recent": "Recent CRM activity",
+      "noActivity": "No activity yet."
+    },
+    "inventory": {
+      "title": "Inventory",
+      "add": "Add vehicle",
+      "empty": "No vehicles match these filters.",
+      "search": "Make, model or URL ID",
+      "activeStock": "Active stock",
+      "published": "Publication",
+      "publishedYes": "Published",
+      "publishedNo": "Not published",
+      "select": "Select {name}",
+      "selected": "{count} selected",
+      "bulkPublish": "Publish",
+      "bulkUnpublish": "Unpublish",
+      "bulkArchive": "Archive",
+      "bulkConfirm": "Apply “{action}” to {count} vehicles?",
+      "bulkDone": "{updated} updated, {failed} skipped.",
+      "featuredBadge": "Featured",
+      "updatedOn": "Updated {date}",
+      "newTitle": "New vehicle",
+      "newHint": "The vehicle is created as a draft. Add photos, then mark it available and publish it.",
+      "identity": "Identity",
+      "specs": "Specifications",
+      "make": "Make",
+      "model": "Model",
+      "generation": "Generation",
+      "trimLevel": "Trim / variant",
+      "year": "Year",
+      "slug": "URL ID",
+      "priceInitial": "Price (₸)",
+      "bodyType": "Body",
+      "fuel": "Fuel",
+      "transmission": "Transmission",
+      "drivetrain": "Drivetrain",
+      "engine": "Engine",
+      "horsepower": "Horsepower",
+      "mileage": "Mileage (km)",
+      "exteriorColor": "Exterior colour",
+      "interiorColor": "Interior colour",
+      "condition": "Condition",
+      "conditions": {
+        "new": "New",
+        "used": "Used",
+        "certified": "Certified pre-owned"
+      },
+      "badges": "Badges",
+      "description": "Description",
+      "descriptionHint": "Shown on the public vehicle page in each language.",
+      "equipment": "Equipment",
+      "addEquipment": "Add item",
+      "remove": "Remove",
+      "createDraft": "Create draft",
+      "details": "Vehicle details",
+      "lifecycle": "Lifecycle",
+      "lifecycleHint": "Draft → Available → Reserved → Sold → Archived. Reservations and sales move vehicles automatically.",
+      "noTransitions": "No manual changes available in this state.",
+      "toAvailable": "Mark available",
+      "toDraft": "Back to draft",
+      "toArchived": "Archive",
+      "release": "Release hold",
+      "restore": "Restore to draft",
+      "archiveConfirm": "Archive this vehicle? It will be hidden from the website and cannot be booked.",
+      "publication": "Publication",
+      "publish": "Publish",
+      "unpublish": "Unpublish",
+      "feature": "Feature on homepage",
+      "unfeature": "Remove from homepage",
+      "publishHint": "Only available, reserved or sold vehicles can be published.",
+      "viewPublic": "Open public page",
+      "previewTitle": "Listing preview",
+      "previewHint": "How the card appears in the public catalogue.",
+      "pricing": "Pricing",
+      "newPrice": "New price (₸)",
+      "priceReason": "Reason",
+      "changePrice": "Change price",
+      "priceApplied": "Price updated.",
+      "priceRequested": "Price change sent for approval.",
+      "pendingRequests": "Pending price changes",
+      "approve": "Approve",
+      "reject": "Reject",
+      "priceHistory": "Price history",
+      "noHistory": "No price changes yet.",
+      "when": "When",
+      "change": "Change",
+      "changedBy": "By",
+      "approvedBy": "approved by {name}",
+      "private": "Stock record (internal)",
+      "privateHint": "Visible only to employees with stock-record access.",
+      "vin": "VIN",
+      "stockNumber": "Stock number",
+      "internalNotes": "Internal notes",
+      "media": "Photos",
+      "kind": "Type",
+      "kinds": {
+        "exterior": "Exterior",
+        "interior": "Interior",
+        "detail": "Detail"
+      },
+      "source": "Source",
+      "sources": {
+        "dealer": "Photo of this vehicle",
+        "representative": "Representative model photo"
+      },
+      "upload": "Upload photos",
+      "uploading": "Uploading {current} of {total}…",
+      "uploadHint": "JPEG, PNG, WebP or AVIF up to 10 MB each, up to 20 at a time. The first photo is the cover.",
+      "noPhotos": "No photos yet. The website shows a neutral placeholder until photos are added.",
+      "photoAlt": "Photo {n}",
+      "cover": "Cover",
+      "makeCover": "Set as cover",
+      "moveUp": "Move up",
+      "moveDown": "Move down",
+      "removePhoto": "Delete photo",
+      "removePhotoConfirm": "Delete this photo permanently?",
+      "credit": "Source: {credit}",
+      "deleteDraft": "Delete draft",
+      "deleteDraftConfirm": "Delete this draft and its photos permanently?"
+    },
+    "prices": {
+      "title": "Price approvals",
+      "description": "Price changes proposed by employees without approval rights. You cannot approve your own request.",
+      "empty": "No price changes are waiting for approval.",
+      "vehicle": "Vehicle",
+      "change": "Change",
+      "reason": "Reason",
+      "requestedBy": "Requested by",
+      "approve": "Approve",
+      "reject": "Reject"
+    },
+    "leads": {
+      "title": "Leads",
+      "ownOnly": "You see leads assigned to you.",
+      "newLead": "New lead",
+      "create": "Create lead",
+      "search": "Name, email or phone",
+      "openStages": "Open stages",
+      "stage": "Stage",
+      "source": "Source",
+      "sources": {
+        "inquiry": "Website enquiry",
+        "test_drive": "Test drive",
+        "reservation": "Reservation",
+        "financing": "Financing",
+        "trade_in": "Trade-in",
+        "service": "Service",
+        "manual": "Manual entry",
+        "phone": "Phone call",
+        "walk_in": "Showroom visit",
+        "whatsapp": "WhatsApp",
+        "referral": "Referral"
+      },
+      "noVehicle": "No vehicle",
+      "followUp": "Next follow-up",
+      "negotiationPrice": "Discussed price (₸)",
+      "lostReason": "Reason lost",
+      "note": "First note",
+      "details": "Contact & source",
+      "closedAt": "Closed",
+      "originalRequest": "Open original request ({kind})",
+      "openCustomer": "Customer profile",
+      "pipelineTitle": "Pipeline",
+      "wonLocked": "This lead is won and linked to a sale. Correct the sale instead.",
+      "wonHint": "A lead becomes “won” when a sale is recorded.",
+      "saleLinked": "Linked sale",
+      "recordSale": "Record sale",
+      "activity": "Activity",
+      "activityType": "Activity type",
+      "logActivity": "What happened?",
+      "addActivity": "Log activity",
+      "activityPlaceholder": "Call summary, customer preferences, next steps…",
+      "activityKinds": {
+        "note": "Note",
+        "call": "Call",
+        "email": "Email",
+        "meeting": "Meeting",
+        "whatsapp": "WhatsApp",
+        "stage_change": "Stage changed",
+        "assignment": "Responsible changed",
+        "follow_up": "Follow-up scheduled",
+        "sale": "Sale recorded",
+        "request": "New request",
+        "system": "Lead created"
+      },
+      "tasks": "Tasks",
+      "empty": "No leads match these filters."
+    },
+    "customers": {
+      "title": "Customers",
+      "ownOnly": "You see customers of leads assigned to you.",
+      "search": "Name, email or phone",
+      "empty": "No customers found.",
+      "since": "Customer since",
+      "anonymizedShort": "anonymised",
+      "anonymized": "Anonymised {date}",
+      "profile": "Profile",
+      "language": "Preferred language",
+      "consentAt": "Privacy consent given {date}.",
+      "noConsent": "No consent recorded (entered by staff).",
+      "linkedAccount": "has an online account",
+      "requests": "Requests",
+      "noRequests": "No requests.",
+      "leads": "Leads",
+      "noLeads": "No leads.",
+      "generalLead": "General enquiry",
+      "sales": "Purchases",
+      "noSales": "No purchases.",
+      "privacy": "Personal data",
+      "privacyHint": "Removes name, e-mail, phone, notes and request contact details. Sales and statistics are kept without personal data.",
+      "anonymize": "Anonymise personal data",
+      "anonymizeConfirm": "This cannot be undone. Anonymise this customer?"
+    },
+    "tasks": {
+      "title": "Tasks",
+      "mine": "My tasks",
+      "team": "Team",
+      "open": "Open",
+      "done": "Completed",
+      "new": "Add task",
+      "titleField": "Task",
+      "due": "Due",
+      "assignee": "Assigned to",
+      "lead": "Open lead",
+      "complete": "Mark done",
+      "reopen": "Reopen",
+      "delete": "Delete task",
+      "empty": "No tasks here.",
+      "overdue": "overdue"
+    },
+    "sales": {
+      "title": "Sales records",
+      "revenueNote": "Values are agreed sale prices recorded by staff — not profit.",
+      "record": "Record sale",
+      "recordHint": "“Completed” marks the vehicle sold. “Pending delivery” keeps it reserved until you complete the sale.",
+      "empty": "No sales recorded for these filters.",
+      "date": "Sale date",
+      "price": "Agreed price (₸)",
+      "salesperson": "Salesperson",
+      "selectVehicle": "Select a vehicle",
+      "selectCustomer": "Select a customer",
+      "statuses": {
+        "pending": "Pending delivery",
+        "completed": "Completed",
+        "cancelled": "Cancelled"
+      },
+      "details": "Sale details",
+      "lead": "Lead",
+      "openLead": "Open lead",
+      "cancelReason": "Cancellation reason",
+      "events": "History",
+      "eventKinds": {
+        "created": "Recorded",
+        "completed": "Completed",
+        "corrected": "Corrected",
+        "cancelled": "Cancelled"
+      },
+      "fields": {
+        "price": "Price",
+        "sale_date": "Date",
+        "salesperson": "Salesperson"
+      },
+      "manage": "Manage sale",
+      "complete": "Mark completed",
+      "completeConfirm": "Mark the vehicle as delivered and sold?",
+      "correct": "Correct sale",
+      "saveCorrection": "Save correction",
+      "cancel": "Cancel sale",
+      "cancelConfirm": "Cancel this sale? The vehicle returns to available stock.",
+      "cancelledLocked": "This sale is cancelled. Record a new sale if the deal is renewed."
+    },
+    "requests": {
+      "allOpen": "Open requests",
+      "empty": "No requests match these filters.",
+      "when": "Appointment",
+      "received": "Received",
+      "subject": "Subject",
+      "appointmentHint": "Times are shown in {zone}.",
+      "details": "Request details",
+      "events": "History",
+      "eventKinds": {
+        "created": "Received",
+        "status": "Status",
+        "assignment": "Assigned",
+        "note": "Note",
+        "reschedule": "Rescheduled"
+      },
+      "actions": {
+        "in_progress": "Start handling",
+        "confirmed": "Confirm",
+        "completed": "Complete",
+        "rejected": "Decline",
+        "cancelled": "Cancel"
+      },
+      "statusNote": "Note for the history (optional)",
+      "closed": "This request is closed.",
+      "reservationHint": "Confirming reserves the vehicle for the hold period set in Settings. A sale closes the reservation automatically.",
+      "notConfirmed": "Requested by the customer — not confirmed yet.",
+      "openLead": "Open lead",
+      "holdUntil": "Held until",
+      "holdExpired": "Hold period expired; the vehicle was released.",
+      "byCustomer": "Cancelled by the customer.",
+      "topic": "Topic",
+      "topics": {
+        "general": "General question",
+        "financing": "Financing",
+        "tradeIn": "Trade-in",
+        "availability": "Availability",
+        "delivery": "Delivery"
+      },
+      "message": "Message",
+      "financing": {
+        "price": "Vehicle price",
+        "down": "Down payment",
+        "term": "Term",
+        "months": "{count} months"
+      },
+      "tradeIn": {
+        "vehicle": "Customer's vehicle",
+        "mileage": "Mileage",
+        "condition": "Condition",
+        "estimate": "Indicative estimate"
+      },
+      "service": {
+        "vehicle": "Vehicle",
+        "type": "Service"
+      },
+      "serviceTypes": {
+        "maintenance": "Scheduled maintenance",
+        "inspection": "Inspection",
+        "detailing": "Detailing",
+        "tyres": "Tyres",
+        "repair": "Repair"
+      },
+      "reschedule": "Reschedule",
+      "newDate": "New date",
+      "newTime": "New time",
+      "notes": "Internal notes",
+      "addNote": "Add a note",
+      "saveNote": "Save note"
+    },
+    "calendar": {
+      "title": "Calendar",
+      "timezone": "Test drives and service appointments, times in {zone}.",
+      "previous": "Previous week",
+      "next": "Next week",
+      "today": "This week",
+      "week": "{from} – {to}",
+      "days": {
+        "0": "Mon",
+        "1": "Tue",
+        "2": "Wed",
+        "3": "Thu",
+        "4": "Fri",
+        "5": "Sat",
+        "6": "Sun"
+      },
+      "empty": "No appointments this week."
+    },
+    "team": {
+      "title": "Team",
+      "description": "Employees, roles and what each role may do.",
+      "invite": "Invite an employee",
+      "email": "Work e-mail",
+      "role": "Role",
+      "send": "Create invitation",
+      "inviteHint": "A single-use link valid for 7 days is created. Send it to the employee yourself — no e-mail is sent automatically. They must sign in with this exact address.",
+      "linkReady": "Invitation link — shown only once:",
+      "copy": "Copy link",
+      "copied": "Copied",
+      "members": "Employees",
+      "name": "Name",
+      "status": "Access",
+      "statuses": {
+        "active": "Active",
+        "suspended": "Suspended"
+      },
+      "since": "Since",
+      "actions": "Actions",
+      "you": "you",
+      "suspend": "Suspend",
+      "suspendConfirm": "Suspend access now? Their open leads become unassigned.",
+      "reactivate": "Reactivate",
+      "remove": "Remove",
+      "removeConfirm": "Remove this employee from the dealership?",
+      "pending": "Pending invitations",
+      "noPending": "No pending invitations.",
+      "expires": "Expires {date}",
+      "revoke": "Revoke",
+      "revokeConfirm": "Revoke this invitation?",
+      "permissions": "Role permissions",
+      "permissionsHint": "Only the owner can change what each role may do. Owner access cannot be reduced. Changes apply immediately.",
+      "savePermissions": "Save permissions for {role}",
+      "permissionGroups": {
+        "inventory": "Inventory",
+        "customers": "Customers",
+        "leads": "Leads & tasks",
+        "sales": "Sales",
+        "requests": "Requests & bookings",
+        "administration": "Administration"
+      },
+      "permissionNames": {
+        "inventory_read": "View all stock, including drafts",
+        "inventory_create": "Add vehicles",
+        "inventory_update": "Edit vehicles and lifecycle",
+        "inventory_delete": "Archive vehicles, delete drafts",
+        "inventory_publish": "Publish and feature vehicles",
+        "inventory_price": "Change prices",
+        "inventory_price_request": "Request price changes",
+        "inventory_price_approve": "Approve price changes",
+        "inventory_private": "VIN, stock number, internal notes",
+        "media_update": "Manage vehicle photos",
+        "customers_read": "View all customers",
+        "customers_update": "Edit customer profiles",
+        "customers_delete": "Anonymise personal data",
+        "leads_read_all": "View every lead",
+        "leads_read_own": "View own leads",
+        "leads_create": "Create leads",
+        "leads_update": "Update leads",
+        "leads_assign": "Assign leads",
+        "tasks_read_all": "View team tasks",
+        "tasks_manage": "Assign tasks to others",
+        "sales_read": "View sales",
+        "sales_create": "Record sales",
+        "sales_update": "Complete and correct sales",
+        "sales_cancel": "Cancel sales",
+        "bookings_read": "View test drives and service",
+        "bookings_update": "Manage appointments",
+        "reservations_read": "View reservations",
+        "reservations_update": "Confirm and release reservations",
+        "inquiries_read": "View enquiries",
+        "inquiries_update": "Handle enquiries",
+        "finance_read": "View financing applications",
+        "finance_update": "Handle financing applications",
+        "tradein_read": "View trade-ins",
+        "tradein_update": "Handle trade-ins",
+        "team_read": "View employees",
+        "team_manage": "Invite and manage employees",
+        "settings_update": "Edit dealership settings",
+        "analytics_read": "View analytics",
+        "analytics_financial": "View financial figures",
+        "audit_read": "View audit log"
+      }
+    },
+    "analytics": {
+      "title": "Analytics",
+      "note": "Every figure comes from records in this system. No website traffic or profit is tracked.",
+      "lastDays": "Last {days} days",
+      "financialHidden": "Financial figures are hidden for your role.",
+      "inventory": "Inventory",
+      "active": "Active stock",
+      "draft": "Drafts",
+      "turnover": "Average days to sell",
+      "turnoverHint": "From publication to sale, vehicles sold in range",
+      "stockValue": "Stock at list price",
+      "stockValueHint": "Sum of advertised prices, not cost",
+      "aging": "Stock age",
+      "agingBuckets": {
+        "d0_30": "0–30 days",
+        "d31_60": "31–60 days",
+        "d61_90": "61–90 days",
+        "d90_plus": "Over 90 days"
+      },
+      "salesSection": "Sales",
+      "salesCompleted": "Completed sales",
+      "salesPending": "Pending delivery",
+      "salesCancelled": "Cancelled",
+      "salesValue": "Recorded sales value",
+      "salesValueHint": "Agreed prices of completed sales — not profit",
+      "averageSale": "Average sale price",
+      "conversion": "Lead conversion",
+      "conversionHint": "Won ÷ leads created in range",
+      "funnel": "Leads by stage",
+      "leadsBySource": "Leads by source",
+      "testDrives": "Test drives",
+      "reservations": "Reservations",
+      "service": "Service appointments",
+      "requests": "Other requests",
+      "requestKinds": {
+        "inquiry": "Enquiries",
+        "financing": "Financing",
+        "trade_in": "Trade-ins"
+      },
+      "popular": "Most requested vehicles",
+      "popularHint": "Leads plus test-drive requests in range. Page views are not tracked.",
+      "team": "Team performance",
+      "teamMember": "Employee",
+      "teamLeads": "Leads",
+      "teamWon": "Won",
+      "teamSales": "Sales",
+      "teamValue": "Sales value",
+      "noData": "No data for this period."
+    },
+    "settings": {
+      "title": "Settings",
+      "description": "Changes update the public website immediately.",
+      "saved": "Settings saved.",
+      "logo": "Logo",
+      "uploadLogo": "Upload logo",
+      "uploading": "Uploading…",
+      "noLogo": "No logo",
+      "logoHint": "PNG, JPEG or WebP up to 2 MB. SVG is not accepted for security reasons.",
+      "identity": "Dealership",
+      "name": "Display name",
+      "legalName": "Legal name",
+      "contacts": "Contacts",
+      "phone": "Phone",
+      "email": "Public e-mail",
+      "whatsapp": "WhatsApp number",
+      "address": "Address",
+      "addressLine2": "City and postcode",
+      "mapsUrl": "Map link",
+      "hours": "Opening hours",
+      "socials": "Social links",
+      "socialLabel": "Label",
+      "socialUrl": "URL",
+      "addSocial": "Add link",
+      "booking": "Booking rules",
+      "slots": "Appointment times",
+      "slotsHint": "24-hour format separated by commas, e.g. 10:00, 11:30, 13:00",
+      "window": "Booking window (days ahead)",
+      "hold": "Reservation hold (hours)",
+      "capacity": "Service bays per time slot",
+      "testDriveEnabled": "Accept online test-drive requests",
+      "serviceEnabled": "Accept online service bookings",
+      "services": "Services offered online",
+      "inventory": "Inventory publishing",
+      "showSold": "Show sold vehicles on the website",
+      "showSoldHint": "Only published vehicles appear; sold ones are labelled as sold.",
+      "priceApproval": "Require approval for price changes",
+      "priceApprovalHint": "Employees without approval rights submit changes for a manager to approve.",
+      "regional": "Region",
+      "currency": "Currency (ISO code)",
+      "timezone": "Time zone",
+      "notifications": "Notifications",
+      "notifyNewLeads": "Notify lead managers about new leads",
+      "notificationEmail": "Notification e-mail",
+      "notificationEmailHint": "In-app notifications work now. E-mail delivery requires an e-mail provider, which is not connected.",
+      "privacy": "Privacy",
+      "retention": "Keep customer data (months)",
+      "retentionHint": "Documented retention period. Anonymise individual customers from their profile."
+    },
+    "audit": {
+      "title": "Audit log",
+      "description": "Inventory, price, role, sale and reservation changes, plus denied actions.",
+      "entity": "Record type",
+      "action": "Action",
+      "actor": "Employee",
+      "when": "When",
+      "changes": "Changes",
+      "empty": "No entries.",
+      "system": "System",
+      "formerStaff": "Former employee",
+      "entities": {
+        "vehicles": "Vehicles",
+        "vehicle_media": "Photos",
+        "vehicle_private": "Stock records",
+        "price_change_requests": "Price requests",
+        "sales": "Sales",
+        "reservations": "Reservations",
+        "memberships": "Employees",
+        "role_permissions": "Role permissions",
+        "staff_invitations": "Invitations",
+        "dealerships": "Settings",
+        "customers": "Customers"
+      },
+      "actions": {
+        "insert": "Created",
+        "update": "Changed",
+        "delete": "Deleted",
+        "denied": "Denied",
+        "anonymize": "Anonymised"
+      }
+    },
+    "notifications": {
+      "title": "Notifications",
+      "empty": "No notifications.",
+      "markAllRead": "Mark all as read",
+      "unreadOne": "Unread",
+      "approved": "approved",
+      "rejected": "rejected",
+      "kinds": {
+        "lead_new": "New lead: {source}",
+        "lead_assigned": "A lead was assigned to you",
+        "request_new": "New request: {kind} {reference}",
+        "request_assigned": "Request {reference} was assigned to you",
+        "task_assigned": "New task: {title}",
+        "price_requested": "Price change requested: {vehicle} → {price}",
+        "price_decided": "Your price change was {result}: {price}"
+      }
+    }
+  },
+  "configurator": {
+    "eyebrow": "Configurator",
+    "title": "Compose your finish",
+    "description": "Choose a car from the collection and explore colours, wheels, interior and trim. The price updates as you select.",
+    "vehicle": "Vehicle",
+    "exterior": "Exterior colour",
+    "wheels": "Wheels",
+    "interior": "Interior",
+    "trim": "Trim",
+    "basePrice": "Vehicle price",
+    "options": "Selected options",
+    "total": "Configured total",
+    "included": "Included",
+    "illustrative": "Option prices are illustrative demo values, not a quote. Final availability depends on the specific vehicle.",
+    "photoNote": "Photography shows the listed vehicle in its actual colour. Swatches preview the finish; they do not recolour the photo.",
+    "noSpin": "Interactive 360° view is not available for this vehicle. Use the studio photos below.",
+    "view": "Studio view {n}",
+    "save": "Save configuration",
+    "saved": "Saved on this device",
+    "reset": "Reset",
+    "request": "Request this configuration",
+    "details": "View vehicle details",
+    "summary": "Summary",
+    "colors": {
+      "obsidian": "Obsidian Black",
+      "graphite": "Graphite Grey",
+      "steel": "Steel Blue",
+      "silver": "Metallic Silver",
+      "ivory": "Warm Ivory",
+      "champagne": "Champagne"
+    },
+    "wheelOptions": {
+      "w20": "20″ Aero",
+      "w21": "21″ Multi-spoke",
+      "w22": "22″ Forged"
+    },
+    "interiorOptions": {
+      "onyx": "Onyx leather",
+      "cognac": "Cognac leather",
+      "pearl": "Pearl leather"
+    },
+    "trimOptions": {
+      "carbon": "Carbon fibre",
+      "walnut": "Open-pore walnut",
+      "aluminium": "Brushed aluminium"
+    }
+  },
+  "showroom": {
+    "eyebrow": "Showroom concept",
+    "title": "The Midnight showroom",
+    "description": "A design concept for how AutoLux receives its clients: calm materials, considered light and complete privacy.",
+    "concept": "Conceptual visualisation",
+    "disclaimer": "This is a design concept, not an existing AutoLux location. Images are mood references from interior and showroom photography.",
+    "zones": {
+      "gallery": {
+        "title": "Glass gallery",
+        "text": "Cars presented under low, directional light behind full-height glass."
+      },
+      "reception": {
+        "title": "Marble reception",
+        "text": "A quiet arrival point in veined stone and champagne metal."
+      },
+      "lounge": {
+        "title": "Client lounge",
+        "text": "Soft seating and warm light for unhurried conversations."
+      },
+      "vip": {
+        "title": "VIP suite",
+        "text": "A private room for specification, paperwork and handover."
+      },
+      "kiosk": {
+        "title": "Digital kiosk",
+        "text": "Browse the live collection, compare cars and start a configuration on a touch screen."
+      }
+    },
+    "kioskCta": "Try it here",
+    "cta": "Book a private consultation",
+    "ctaText": "Meet a specialist by appointment. We will confirm the time and place with you directly."
+  },
+  "errorPage": {
+    "eyebrow": "Unexpected error",
+    "title": "The engine stalled.",
+    "text": "Something went wrong while loading this page. Please try again.",
+    "retry": "Try again",
+    "home": "Back to Home"
+  },
+  "invite": {
+    "eyebrow": "Team invitation",
+    "title": "Join the dealership team",
+    "description": "{dealership} invited you as {role}.",
+    "accept": "Accept invitation",
+    "accepting": "Accepting…",
+    "account": "My account",
+    "invalid": "This invitation link is not valid.",
+    "wrongEmail": "This invitation is for {email}. Sign in with that address to accept it.",
+    "confirmEmail": "Confirm your e-mail address first, then open this link again.",
+    "status": {
+      "revoked": "This invitation was revoked.",
+      "accepted": "This invitation has already been used.",
+      "expired": "This invitation has expired. Ask for a new one."
+    }
+  },
+  "privacy": {
+    "eyebrow": "Personal data",
+    "title": "Privacy notice",
+    "intro": "This notice explains how {name} handles the personal data you share through this website.",
+    "collect": {
+      "title": "What we collect",
+      "text": "Only what a request needs: your name, e-mail, phone, the vehicle you ask about, preferred appointment time and any message you write. For financing and trade-in requests we also store the figures you enter."
+    },
+    "use": {
+      "title": "Why we use it",
+      "text": "To contact you about your request, arrange test drives, reservations and service, and keep a record of agreed sales. We do not sell your data or use it for advertising."
+    },
+    "access": {
+      "title": "Who can see it",
+      "text": "Only dealership employees whose role requires it. Financing details are limited to finance staff. Access is logged."
+    },
+    "retention": {
+      "title": "How long we keep it",
+      "text": "For as long as needed to serve you and meet record-keeping obligations. You can ask us to anonymise your personal data at any time."
+    },
+    "rights": {
+      "title": "Your rights",
+      "text": "You may ask what data we hold about you, ask us to correct it, withdraw consent or ask for it to be deleted, in line with the personal data law of the Republic of Kazakhstan."
+    },
+    "contact": "Contact us about your data: {email} · {phone}.",
+    "disclaimer": "This notice is a plain-language summary prepared for the website and should be reviewed by the dealership's legal adviser."
+  }
+}
