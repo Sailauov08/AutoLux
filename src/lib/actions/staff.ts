@@ -1,5 +1,5 @@
 import type { SupabaseClient } from "@supabase/supabase-js";
-import { revalidatePath } from "next/cache";
+import { revalidatePath, updateTag } from "next/cache";
 import type { Permission } from "@/lib/auth/permissions";
 import { getSessionUser, getStaff, type Staff } from "@/lib/auth/session";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
@@ -36,4 +36,8 @@ export const result = <T>(error: { code?: string; message?: string; hint?: strin
 };
 
 export const refreshAdmin = () => revalidatePath("/[locale]/admin", "layout");
-export const refreshSite = () => revalidatePath("/", "layout");
+export const refreshSite = () => {
+  updateTag("vehicles");
+  updateTag("dealership");
+  revalidatePath("/", "layout");
+};

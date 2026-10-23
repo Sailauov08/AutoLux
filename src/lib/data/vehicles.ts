@@ -1,3 +1,4 @@
+import { unstable_cache } from "next/cache";
 import { cache } from "react";
 import { getTranslations } from "next-intl/server";
 import { CARS, type Car, type CarBadge, getSimilarCars, type PhotoSource } from "@/lib/cars";
@@ -59,19 +60,27 @@ export function rowToCar(row: VehicleRow): Car {
   };
 }
 
-const loadRows = cache(async () => {
-  const client = createSupabasePublicClient();
-  if (!client) return null;
-  const { data, error } = await client
-    .from("vehicles")
-    .select(VEHICLE_SELECT)
-    .eq("dealership_id", await getDealershipId())
-    .eq("published", true)
-    .order("featured", { ascending: false })
-    .order("published_at", { ascending: false });
-  if (error) throw new Error(error.message);
-  return data as unknown as VehicleRow[];
-});
+// Published inventory is shared by every visitor, so it is cached across requests;
+// staff writes call refreshSite(), which expires the "vehicles" tag immediately.
+const fetchRows = unstable_cache(
+  async (dealershipId: string | null) => {
+    const client = createSupabasePublicClient();
+    if (!client) return null;
+    const { data, error } = await client
+      .from("vehicles")
+      .select(VEHICLE_SELECT)
+      .eq("dealership_id", dealershipId)
+      .eq("published", true)
+      .order("featured", { ascending: false })
+      .order("published_at", { ascending: false });
+    if (error) throw new Error(error.message);
+    return data as unknown as VehicleRow[];
+  },
+  ["vehicles"],
+  { revalidate: 300, tags: ["vehicles"] },
+);
+
+const loadRows = cache(async () => (createSupabasePublicClient() ? fetchRows(await getDealershipId()) : null));
 
 export async function getVehicles(): Promise<Car[]> {
   const rows = await loadRows();

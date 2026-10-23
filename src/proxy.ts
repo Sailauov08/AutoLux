@@ -20,7 +20,8 @@ export default async function proxy(request: NextRequest) {
       },
     },
   });
-  await supabase.auth.getUser();
+  // getClaims verifies the JWT locally (asymmetric keys) and only calls Auth when the session needs a refresh.
+  await supabase.auth.getClaims();
   return response;
 }
 

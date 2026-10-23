@@ -1,3 +1,4 @@
+import { unstable_cache } from "next/cache";
 import { cache } from "react";
 import { TIME_SLOTS } from "@/lib/domain";
 import { DEALERSHIP } from "@/lib/site";
@@ -54,11 +55,21 @@ const FALLBACK: DealershipInfo = {
   timezone: "Asia/Almaty",
 };
 
+const fetchDealership = unstable_cache(
+  async (slug: string) => {
+    const client = createSupabasePublicClient();
+    if (!client) return null;
+    const { data, error } = await client.from("dealerships").select(PUBLIC_COLUMNS).eq("slug", slug).maybeSingle();
+    if (error) throw new Error(error.message);
+    return data;
+  },
+  ["dealership"],
+  { revalidate: 300, tags: ["dealership"] },
+);
+
 export const getDealership = cache(async (): Promise<DealershipInfo> => {
-  const client = createSupabasePublicClient();
-  if (!client) return FALLBACK;
-  const { data, error } = await client.from("dealerships").select(PUBLIC_COLUMNS).eq("slug", dealershipSlug()).maybeSingle();
-  if (error) throw new Error(error.message);
+  if (!createSupabasePublicClient()) return FALLBACK;
+  const data = await fetchDealership(dealershipSlug());
   if (!data) throw new Error(`Dealership "${dealershipSlug()}" does not exist. Run supabase/seed.sql or create it.`);
   const hours = (data.hours ?? {}) as Partial<Record<HoursKey, string>>;
   return {

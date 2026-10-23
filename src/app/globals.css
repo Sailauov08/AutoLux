@@ -23,6 +23,11 @@
   --animate-fade: fade 1.4s ease-out both;
   --animate-kenburns: kenburns 14s ease-out both;
   --animate-marquee: marquee 42s linear infinite;
+  --animate-loading-bar: loading-bar 1.1s ease-in-out infinite;
+  @keyframes loading-bar {
+    from { transform: translateX(-100%); }
+    to { transform: translateX(300%); }
+  }
   @keyframes rise {
     from { transform: translateY(105%); }
     to { transform: translateY(0); }

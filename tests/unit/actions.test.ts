@@ -5,7 +5,7 @@ vi.mock("next/headers", () => ({
   cookies: async () => ({ getAll: () => [], set: () => undefined }),
 }));
 
-vi.mock("next/cache", () => ({ revalidatePath: () => undefined }));
+vi.mock("next/cache", () => ({ revalidatePath: () => undefined, updateTag: () => undefined, unstable_cache: <T>(fn: T) => fn }));
 
 beforeEach(() => {
   delete process.env.NEXT_PUBLIC_SUPABASE_URL;
